@@ -1,0 +1,2 @@
+# facepy-database
+Hi, I am new and want to learn coding, i dit the python cursus and want to start programming. I am member of around 200 facebook groups about dogs. And I want to scrape fb with facepy, ecause browsing true the post cost to much time. And afther hours browsing with out finishing reading ture the whole page, the send me back up.  I want to be able to search the groups post by date's and with search words. And some where be able to acces the pictures. Please help 
